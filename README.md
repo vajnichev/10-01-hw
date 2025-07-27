@@ -11,12 +11,12 @@
 
 #### Решение:
 ##### pkt: 
-[hsrp_advanced-10-hw.pkt] (https://github.com/vajnichev/10-01-hw/blob/main/hsrp_advanced-10-hw.pkt) 
+[hsrp_advanced-10-hw.pkt](https://github.com/vajnichev/10-01-hw/blob/main/hsrp_advanced-10-hw.pkt) 
 ![png](https://github.com/vajnichev/10-01-hw/blob/main/img/10.0.1.png)
 
 ### Задание 2
 #### Bash-скрипт:
-[check_server.sh] (https://github.com/vajnichev/10-01-hw/blob/main/check_server.sh)
+[check_server.sh](https://github.com/vajnichev/10-01-hw/blob/main/check_server.sh)
 
 1. `Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.`
 2. `Настройте любой веб-сервер (например, nginx или simple python server) на двух виртуальных машинах`
